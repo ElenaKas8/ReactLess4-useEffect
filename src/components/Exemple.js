@@ -10,7 +10,7 @@ console.log('инициализация!');
         console.log('монтирование компонента');
     })
   return (
-    <div>Exemple</div>
+    <div><h1>useEffect</h1></div>
   )
 }
 
